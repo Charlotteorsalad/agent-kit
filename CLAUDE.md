@@ -16,6 +16,7 @@ TODO.md is the task list. I own its priorities; you only tick boxes.
 * Add every dependency to requirements.txt the moment you use it.
 * No hardcoded secrets or keys. Use environment variables, with an .env.example.
 * Handle obvious errors (bad input, missing file, failed API call) with clear messages.
+- Never run `git commit`, `git push`, or `git reset`. I handle git myself.
 
 ## Verification
 
