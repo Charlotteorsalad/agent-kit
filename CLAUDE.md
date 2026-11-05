@@ -22,3 +22,8 @@ TODO.md is the task list. I own its priorities; you only tick boxes.
 * Run `pytest -q` after every change. Fix failures before moving on.
 * Never claim something works without showing the command output that proves it.
 
+## Time budget
+- Hard limit: 120 minutes total. ~20 planning, ~70 building, ~30 review + docs.
+- TODO.md MVP must fit in 70 minutes: max 8–10 items, ~7 min each.
+- Prefer the simplest approach that meets the MUST requirements. Mention better approaches in SOLUTION.md instead of building them.
+- If an item takes more than 2 attempts to fix, stop and tell me. Don't keep retrying.
